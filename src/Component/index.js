@@ -1,0 +1,8 @@
+export { default as Header } from "./Header"
+export { default as About } from "./About"
+// export { default as Contact } from "./Contact"
+export { default as Projects } from "./Projects"
+export { default as Form } from "./Form"
+export { default as Footer } from "./Footer"
+export { default as Carousel } from "./Carousel"
+export { default as Plans } from "./Plans"
